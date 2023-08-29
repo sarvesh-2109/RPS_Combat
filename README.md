@@ -1,8 +1,11 @@
 # RPS_Combat
 Rock, Paper, Scissors Showdown!
 
+Welcome to the Rock, Paper, Scissors game – a classic game brought to life in Python! Test your luck and strategy by playing against the computer in this interactive game.
 
-### **Welcome to the Rock, Paper, Scissors game – a classic game brought to life in Python! Test your luck and strategy by playing against the computer in this interactive game.**
+## **Working**
+![image](https://github.com/sarvesh-2109/RPS_Combat/assets/113255836/18e9cb60-3655-4a1e-b8a6-9a8ddcd3865d)
+
 
 ## **Game Rules**
 
